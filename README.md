@@ -1,1 +1,2 @@
 # Movies-ETL
+## An automated pipeline is created for Amazing Prime that takes in new data, performs the appropriate transformations, and loads the data into existing tables. The code learned through the ETL modules is used and refactored to take in all three files- Wikipedia data, Kaggle metadata, and the MovieLens rating data- to perform the ETL process by adding the data to a PostgresSQL databse. 
